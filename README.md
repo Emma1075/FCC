@@ -1,3 +1,5 @@
-# FCC
-## FCC 基础部分
-## FCC 进阶部分
+# freeCodeCamp 项目
+## 算法部分
+- basic
+-intermediate
+- advanced
